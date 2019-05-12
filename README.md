@@ -1,4 +1,13 @@
-# Learn Vue Js
+# Learn Vuejs
+
+## Install
+```
+npm install -g @vue/cli
+```
+## Create New App
+```
+vue create <app-name>
+```
 
 ## Setup
 
