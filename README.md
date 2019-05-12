@@ -1,14 +1,5 @@
 # Learn Vuejs
 
-## Install
-```
-npm install -g @vue/cli
-```
-## Create New App
-```
-vue create <app-name>
-```
-
 ## Setup
 
 [nvm](https://github.com/nvm-sh/nvm) and node LST version
@@ -16,6 +7,16 @@ vue create <app-name>
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 nvm install --lts
+```
+
+## Install Vue CLI
+```
+npm install -g @vue/cli
+```
+
+## Create New App
+```
+vue create <app-name>
 ```
 
 ## VueJs
